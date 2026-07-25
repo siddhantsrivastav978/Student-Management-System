@@ -28,5 +28,11 @@
         "name": "saumya",
         "age": 26,
         "course": "b pharma"
+    },
+    {
+        "id": "106",
+        "name": "harshit",
+        "age": 25,
+        "course": "bsc"
     }
 ]
